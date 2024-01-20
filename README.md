@@ -27,7 +27,7 @@
 </div>
 ---
 
-### :man_technologist: About Me : I am a Full Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+### :man_technologist: About Me : I am a Full Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
  :telescope: I’m open to colaborating in works that involves using data to solve buisness problem.
 
 - :seedling: Exploring Artificial Intelligence.
@@ -39,27 +39,25 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 - ---
-### Data Science and Machine Learning 
+### 💻 Data Science and Machine Learning 
 <div>
-<img src="numpy_logo.png" alt="NumPy" width="100" height="100">
-<img src="pandas_logo.png" alt="Pandas" width="100" height="100">
-<img src="matplotlib_logo.png" alt="Matplotlib" width="100" height="100">
-<img src="seaborn_logo.png" alt="Seaborn" width="100" height="100">
-<img src="sklearn_logo.png" alt="scikit-learn" width="100" height="100">
-<img src="tensorflow_logo.png" alt="TensorFlow" width="100" height="100">
-<img src="pytorch_logo.png" alt="PyTorch" width="100" height="100">
-<img src="keras_logo.png" alt="Keras" width="100" height="100">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mayplotlib/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="100" height="100"/>&nbsp;
 </div>
 
-## Business Intelligence tool
+## 📊 Business Intelligence tool
 <div>
-  <img src="powerbi_logo.png" alt="Power BI" width="100" height="100">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI Logo" width="100">
 </div>
 
-## Databases
+## 📑 Databases
 <div>
-  <img src="mysql_logo.png" alt="MySQL" width="100" height="100">
-<img src="mongodb_logo.png" alt="MongoDB" width="100" height="100">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="100" height="100"/>&nbsp;
 </div>
 
 ## Spread Sheet
