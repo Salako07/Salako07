@@ -1,70 +1,28 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+#  Hey, I'm Olamide Emmanuel Salako
 
-<div id="badges" align="center">
-  <a href="linkedin.com/in/olamide-salako-952bb7207">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div id="badges" align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-Salako07&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+I'm an **AI Systems Engineer** focused on designing and deploying **Agentic Architectures** — systems that combine reasoning, orchestration, and structure to automate real-world problem-solving.
+
+###  What I Build
+-  **Agentic AI Systems** — multi-agent workflows with structured validation (CrewAI, Pydantic AI)
+-  **AI Infrastructure** — RAG, context pipelines, and scalable FastAPI backends
+-  **ML + NLP Integrations** — embedding models, topic detection, feedback triage
+-  **Cloud Deployments** — AWS (EC2, S3, Lambda, Bedrock) for AI & backend workloads
+
+###  Featured Projects
+| Project | Description | Stack |
+|----------|--------------|--------|
+|  [pydantic-ai-feedback-triage](https://github.com/Salako07/pydantic-ai-feedback-triage) | AI-powered feedback dashboard that analyzes, categorizes, and prioritizes customer messages | Pydantic AI, FastAPI, Redis, PostgreSQL |
+|  [agentic-course-builder](https://github.com/Salako07/agentic-course-builder) | Multi-agent system for generating course outlines, quizzes, and tasks | CrewAI, Gemini, Django |
+|  [agentic-sow-generator](https://github.com/Salako07/agentic-sow-generator) | Generates smart Scope of Work and PRDs from client briefs and sketches | CrewAI, OpenAI, LangChain |
+
+###  Tech Stack
+`Python` · `FastAPI` · `Django` · `CrewAI` · `Pydantic AI` · `MongoDB` · `PostgreSQL` · `Redis` · `AWS` · `Docker` · `LangChain`
+
+###  Connect
+-  [LinkedIn](https://www.linkedin.com/in/olamide-salako-952bb7207)
+-  [GitHub](https://github.com/Salako07)
+-  salako.olamide2001@gmail.com
+
 ---
 
-### :man_technologist: About Me : I am a Full Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
- :telescope: I’m open to colaborating in works that involves using data to solve buisness problem.
-
-- :seedling: Exploring Artificial Intelligence.
-
-- :zap: In my free time, I read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Olamide-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/olamide-salako-952bb7207)
-- ---
-
-### :hammer_and_wrench: Languages and Tools :
-- ---
-### 💻 Data Science and Machine Learning 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mayplotlib/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="100" height="100"/>&nbsp;
-</div>
-
-## 📊 Business Intelligence tool
-<div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI Logo" width="100">
-</div>
-
-## 📑 Databases
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="100" height="100"/>&nbsp;
-</div>
-
-## Spread Sheet
-<div>
-  <img src="excel_logo.png" alt="Microsoft Excel" width="100" height="100">
-</div>
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Salako07&theme=dark)](https://git.io/streak-stats)
+> "AI shouldn’t replace human judgment — it should make clarity unavoidable."
